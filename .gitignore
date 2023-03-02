@@ -1,3 +1,4 @@
 #Nothing to ignore, no credentials nor excessive data.
 #scrap.zip is the zipped project folder.
 MTG_Scrapper_AF.zip
+.vscode
