@@ -82,7 +82,7 @@ The generated CSV files contain columns:
 ## Example Wishlist
 
 ```
-Captain Sisay;Reki,the History of Kamigawa;Elesh Norn, Mother of Machines;Atraxa, Grand Unifier
+Captain Sisay;Reki, the History of Kamigawa;Elesh Norn, Mother of Machines;Atraxa, Grand Unifier
 ```
 
 ## Author
